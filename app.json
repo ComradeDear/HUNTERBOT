@@ -69,7 +69,7 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://darkcobra.crazycreatorr.repl.run/ ",
+      "description": "Get this value by running [ apt-get update && apt-get upgrade -y && pkg upgrade -y && pkg install python wget -y && wget https://raw.githubusercontent.com/ComradeDear/HUNTERBOT/master/telesetup.py && pip3 install telethon && python3 telesetup.py ] or give any telethon string",
       "value": "",
       "required": true
     },
